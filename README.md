@@ -1,8 +1,8 @@
-I am a highly seasoned IT professional with over 19 years of experience in systems administration and endpoint management, which has naturally evolved into a deep focus on cybersecurity. My background is rooted in managing complex system lifecycles, administering essential infrastructure components like SCCM, Active Directory, and various Windows/Linux platforms , and ensuring high availability
+Senior IT Security Specialist with 19+ years of experience in cybersecurity, endpoint management, and IT/OT systems administration. Expert in architecting resilient hybrid environments using Microsoft 365 Cybersecurity Architect and Azure Solutions Architect Expert credentials to secure critical enterprise assets. Recently validated advanced technical proficiency by attaining the GCIH (Incident Handler) and GICSP (Securing industrial systems) certification, demonstrating a proven ability to automate threat response and cut investigation times by 35%. Highly skilled at leveraging Defender for Endpoint and Identity Governance to harden perimeters and lead high-impact security operations.
 
 
 🔒 NCL CTF Performance Reflection: Skill Validation and Growth
-This document reflects on my performance in the National Cyber League (NCL) Fall 2025 season, which included both the Individual and Team Games. The experience served as a comprehensive, scenario-based validation of my cybersecurity skills, showcasing my growth from a strong individual foundation to an elite, collaborative contributor.
+Competing in the **National Cyber League (NCL)** has served as a continuous, scenario-based proving ground for translating real-world systems engineering into high-tempo defensive and offensive execution. Progressing from the general bracket in Fall 2025 to the **Experienced Student Bracket** in Fall 2026 (reserved for advanced degree candidates and experienced industry practitioners) has sharpened both my solo analytical rigor and collaborative teamwork under strict time constraints.
 
 📈 Overall Performance Summary
 My dual participation tracked significant development and capability:
